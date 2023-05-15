@@ -43,7 +43,7 @@ color: #262626;
   border: 1px solid #e2e0e0;
 }
 .inputWrap:focus-within {
-  border: 1px solid #45c5b0;
+  border: 1px solid #8536aa;
 }
 
 .input {
@@ -65,7 +65,7 @@ height: 48px;
   border: none;
   font-weight: bold;
   border-radius: 64px;
-  background-color: #45c5b0;
+  background-color: #8536aa;
   color: white;
   margin-bottom: 16px;
   cursor: pointer;
